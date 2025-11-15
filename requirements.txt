@@ -1,0 +1,14 @@
+# Core dependencies for the NLP Chatbot
+# Install using: pip install -r requirements.txt
+
+# NLTK for NLP processing (tokenization, lemmatization, stopwords)
+# Note: The chatbot will work without NLTK using simple tokenization,
+# but NLTK provides better accuracy for text preprocessing
+nltk>=3.8.1
+
+# Optional: If you want to use spaCy instead of NLTK, uncomment the following:
+# spacy>=3.7.0
+# After installing, download a model: python -m spacy download en_core_web_sm
+
+# Note: After installing NLTK, download required data resources:
+# python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet')"
