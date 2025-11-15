@@ -1,4 +1,16 @@
-# Task 3 — NLP Chatbot
+# AI CHATBOT WITH NLP
+
+"Company":CODTECH IT SOLUTIONS
+
+"Name": Ronak Vekariya
+
+"Intern ID":CT04DR535
+
+"Domain":Python Programing
+
+"Duration":4 Weeks
+
+"Mentor":Neela Santosh
 
 A Python-based conversational chatbot that uses Natural Language Processing (NLP) techniques to understand user queries and provide relevant answers. The chatbot uses vectorization and cosine similarity to match user questions with a knowledge base, and includes intent detection for common conversational patterns.
 
@@ -23,6 +35,11 @@ A Python-based conversational chatbot that uses Natural Language Processing (NLP
 
 - Python 3.9+ recommended
 - NLTK (optional but recommended for better NLP processing)
+
+## Image
+
+<img width="1214" height="695" alt="image" src="https://github.com/user-attachments/assets/979ae4df-da19-462c-846f-714e0dcadcb5" />
+
 
 ## Setup
 
